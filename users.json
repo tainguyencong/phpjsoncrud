@@ -1,0 +1,35 @@
+[
+  {
+  "id": 1,
+  "fullname": "Nguyễn Văn A",
+  "username": "username1",
+  "password": "e10adc3949ba59abbe56e057f20f883e",
+  "gender": 1,
+  "email": "example1@gmail.com",
+  "avatar": "/upload/avatar1.jpg",
+  "phone": "0987654321",
+  "address": "Tầng 3, Tòa sudico Phạm Hùng, Hà Nội"
+  },
+  {
+  "id": 2,
+  "fullname": "Nguyễn Văn B",
+  "username": "username2",
+  "password": "96e79218965eb72c92a549dd5a330112",
+  "gender": 1,
+  "email": "example2@gmail.com",
+  "avatar": "/upload/avatar2.jpg",
+  "phone": "0987654321",
+  "address": "Tầng 3, Tòa sudico Phạm Hùng, Hà Nội"
+  },
+   {
+  "id": 3,
+  "fullname": "Trần Thị C",
+  "username": "username3",
+  "password": "96e79218965eb72c92a549dd5a330112",
+  "gender": 2,
+  "email": "example3@gmail.com",
+  "avatar": "/upload/avatar2.jpg",
+  "phone": "0987654321",
+  "address": "Tầng 3, Tòa sudico Phạm Hùng, Hà Nội"
+  }
+]

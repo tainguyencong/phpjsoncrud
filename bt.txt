@@ -1,0 +1,23 @@
+Đề bài:
+- đọc ghi file users.json.
+- làm form đăng nhập sử dụng data trong file users.json, password được mã hóa bằng md5.
+- check đã đăng nhập hay chưa, chưa thì login, rồi thì hiển thị danh sách users.
+- CRUD user trong danh sách và ghi lại vào file json.
+- upload ảnh.
+
+Điều kiện:
+- sử dụng bs5 để dựng html.
+- sử dụng php hướng đổi tượng: 
+	+ Xây dựng class File có các hàm đọc và ghi file users.json.
+	+ Xây dựng class User kế thừa hàm File để xử lý hiển thị và CRUD.
+- tạo folder uploads tiến hành upload ảnh avatar của user vào folder và lưu lại đường dẫn vào file json.
+- sử dụng Regex để check có phải email hay không.
+
+Validate:
+  "id": khóa chính, tự tăng.
+  "fullname": bắt buộc.
+  "username": bắt buộc, chỉ nhận chữ latin.
+  "password": bắt buộc, tối thiểu 6 ký tự.
+  "gender": 1 = nam, 2 = nữ.
+  "email": bắt buộc, check phải là email.
+ 
